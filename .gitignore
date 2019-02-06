@@ -1,3 +1,4 @@
 .vscode
 *.zip
-_DS_Storenode_modules/
+_DS_Store
+node_modules
